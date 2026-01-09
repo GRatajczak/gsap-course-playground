@@ -1,3 +1,5 @@
+import gsap from "gsap";
+
 gsap.to(".card", {
     scale: 1,
     opacity: 1,
